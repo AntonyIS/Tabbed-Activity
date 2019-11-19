@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CloneWhatsap</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="chatsfragment">Chat place</string>
+    <string name="statusFragment">Status place</string>
+    <string name="callsFragment">Calls place</string>
+
+
+    <string-array name="majina">
+        <item>Benz</item>
+        <item>Audi</item>
+        <item>Ford</item>
+        <item>Toyota</item>
+        <item>Range</item>
+    </string-array>
+
+</resources>
